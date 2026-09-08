@@ -8,6 +8,6 @@ Sistem Perulangan Menu program dibungkus dengan perulangan while True agar menu 
 Logika Validasi Program menggunakan kondisi if-else serta operator in untuk mastikan apakah judul buku yang diketik pengguna tersedia di dalam data perpustakaan atau di dalam keranjang pinjaman.
 
 Ini adalah Output dari Program:
-[Output Bagian 1](Output1.png)
-[Output Bagian 2](Output2.png)
+[output Bagian 1](output1.png)
+[output Bagian 2](output2.png)
 
